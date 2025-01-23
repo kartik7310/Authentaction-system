@@ -17,7 +17,7 @@ This project is an authentication system built using JavaScript. It provides fun
 - JavaScript
 - Node.js
 - Express.js
-- MongoDB
+- MySql
 - bcrypt
 - Prisma
 - JWT
